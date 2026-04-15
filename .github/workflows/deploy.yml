@@ -28,6 +28,5 @@ jobs:
           username: ${{ secrets.VPS_USERNAME }}
           key: ${{ secrets.VPS_SSH_KEY }}
           source: "build/*"
-          target: "/var/www/oreluniver.ispras.ru/"
+          target: "/var/www/oreluniver.fudov.ru/"
           strip_components: 1
-          rm: true

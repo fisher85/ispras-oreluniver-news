@@ -10,7 +10,7 @@
 
 Скачать презентацию в PDF: [ИСП РАН для студентов](https://nextcloud.ispras.ru/index.php/s/iYCpNBLEpSKrTR7)
 
-<img src="images/image.png" style="width: 100%">
+<img src="images/ispras-overview-slide.jpg" style="width: 100%">
 
 Страница ИСП РАН для студентов: [https://education.at.ispras.ru/](https://education.at.ispras.ru/)
 
@@ -31,13 +31,13 @@
 **31.03.2026** Анастасия Никольская приняла участие в конференции MathAI, которая проходила в образовательном центре "Сириус" (г. Сочи) с 30 марта по 3 апреля 2026 года, и выступила там с докладом "On the Formalization of Constrained Adversarial Attacks in Network Traffic Analysis".
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
-  <img src="images/2026-04-15 21.26.36.jpg" alt="">
+  <img src="images/mathai-2026-nikolskaya-talk.jpg" alt="">
 </div>
 
 **27.03.2026** С рабочим визитом в Орёл приехали коллеги из ИСП РАН (г. Москва) Вартан Падарян и Александр Гетьман. За два дня провели ряд встреч, в том числе с лабораторией биомедицинской фотоники ОГУ и её руководителем Андреем Дунаевым, директором ИПАИТ Константином Подмастерьевым и студентами‑стипендиатами института.
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
-  <img src="images/photo_2026-03-27_17-53-45.jpg" alt="">
+  <img src="images/ispras-ogu-visit-2026.jpg" alt="">
 </div>
 
 **25.12.2025** На заседании Учёного совета ОГУ состоялось торжественное вручение сертификатов на получение стипендий ИСП РАН студентам ИПАИТ:
@@ -46,30 +46,30 @@
 - [Студенты ОГУ имени И.С. Тургенева стали стипендиатами программы Института системного программирования РАН.](https://oreluniver.ru/media/news/show/1/27611)
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
-  <img src="images/photo_2025-12-26_08-39-15.jpg" alt="">
+  <img src="images/ispras-scholarship-certificates-2025.jpg" alt="">
 </div>
 
 **17.12.2025** Состоялась защита студенческих проектов в группе 41ПГ.
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
-  <img src="images/image 1.png" alt="">
+  <img src="images/student-project-defense-41pg-2025.jpg" alt="">
 </div>
 
 **09.12.2025** Студенты ИПАИТ — Антон Ветров, Александр Тимошенко, Светлана Баева и Анастасия Ртищева — приняли участие в работе [Открытой конференции ИСП РАН 2025](https://www.isprasopen.ru/2025/) в кластере “Ломоносов”, г. Москва.
 
 <div class="photo-grid" style="--photo-grid-cols: 3">
-  <img src="images/photo_2025-12-15_10-42-07.jpg" alt="">
-  <img src="images/photo_2025-12-15_10-42-11.jpg" alt="">
-  <img src="images/photo_2025-12-15_10-42-15.jpg" alt="">
+  <img src="images/ispras-open-2025-venue.jpg" alt="">
+  <img src="images/ispras-open-2025-plenary.jpg" alt="">
+  <img src="images/ispras-open-2025-students-ml-ids.jpg" alt="">
 </div>
 
 **26.06.2025** В Иркутске прошла ежегодная конференция ИСП РАН ["Иванниковские чтения"](https://ivannikov-ws.org/), посвящённая разработке инновационных технологий системного программирования и искусственного интеллекта.
 
 <div class="photo-grid">
-  <img src="images/IMG_0012.jpg" alt="">
-  <img src="images/IMG_1500.jpg" alt="">
-  <img src="images/IMG_0821.jpg" alt="">
-  <img src="images/IMG_0259.jpg" alt="">
+  <img src="images/ivannikov-readings-2025-plenary-session.jpg" alt="">
+  <img src="images/ivannikov-readings-2025-discussion.jpg" alt="">
+  <img src="images/ivannikov-readings-2025-audience.jpg" alt="">
+  <img src="images/ivannikov-readings-2025-group-photo.jpg" alt="">
 </div>
 
 **05.06.2025** Студенты группы 21ПИ Антон Ветров, Александр Тимошенко, Роман Шугуров выступили с докладами на конференции [ИТНОП-2025](https://myconfs.ru/itnop2025). Александр Тимошенко получил диплом II степени в секции "Искусственный интеллект и принятие решений".
@@ -79,20 +79,20 @@
 **31.05.2025** https://oreluniver.ru/media/news/show/1/25591
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
-  <img src="images/image 2.png" alt="">
+  <img src="images/itnop-2025-student-certificates.jpg" alt="">
 </div>
 
 **18.12.2024** Состоялась защита студенческих проектов в группе 21ПИ.
 
 <div class="photo-grid">
-  <img src="images/image 3.png" alt="">
-  <img src="images/image 4.png" alt="">
+  <img src="images/student-project-defense-21pi-ai-assistant-2024.jpg" alt="">
+  <img src="images/student-project-defense-21pi-security-monitor-2024.jpg" alt="">
 </div>
 
 **07.10.2024** В Университете "Сириус" стартовала проектная смена "Доверенный искусственный интеллект". Обучение проходят около 40 студентов и аспирантов, а в качестве преподавателей выступают ведущие сотрудники ИСП РАН, МГУ им. М.В. Ломоносова, МФТИ, ННГУ, Сколтеха, AIRI и Университета Иннополис. Среди преподавателей — Дмитрий Александрович Рыболовлев и Анастасия Григорьевна Никольская.
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
-  <img src="images/image 5.png" alt="">
+  <img src="images/sirius-trusted-ai-2024-group-photo.jpg" alt="">
 </div>
 
 **23.11.2022** Заключено Соглашение о сотрудничестве между ИСП РАН и ОГУ**.**
@@ -102,6 +102,6 @@
 https://www.ivannikov-ws.org/2020/#AboutEvent
 
 <div class="photo-grid">
-  <img src="images/image 6.png" alt="">
-  <img src="images/image 7.png" alt="">
+  <img src="images/ivannikov-readings-2020-ogu-participants.jpg" alt="">
+  <img src="images/ivannikov-readings-2020-ribbon-cutting.jpg" alt="">
 </div>

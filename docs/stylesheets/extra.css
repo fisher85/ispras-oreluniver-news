@@ -34,7 +34,7 @@
   font-size: 1.8em;
   font-weight: 700;
   color: #37352f;
-  letter-spacing: -0.01em;
+  letter-spacing: 0;
   margin-bottom: 0.5em;
 }
 
@@ -68,9 +68,17 @@
 }
 
 /* Table */
-.md-typeset table:not([class]) td {
+.md-typeset table:not([class]) {
+  width: 100%;
+  display: table;
+  font-size: 0.8rem;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
   word-break: normal;
   white-space: normal;
+  padding: 0.4rem 0.6rem;
 }
 
 /* Footer */

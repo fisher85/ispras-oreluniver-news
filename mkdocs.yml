@@ -27,6 +27,8 @@ plugins:
 
 nav:
   - Главная: index.md
+  - Охват групп: coverage.md
+  - Публикации: publications.md
 
 extra:
   generator: false

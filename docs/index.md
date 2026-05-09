@@ -2,9 +2,9 @@
 
 ## Что предлагает ИСП РАН студентам ОГУ?
 
-Официальный сайт Института системного программирования имени Виктора Петровича Иванникова Российской академии наук (ИСП РАН): [https://www.ispras.ru/](https://www.ispras.ru/)
+Официальный сайт Института системного программирования имени Виктора Петровича Иванникова Российской академии наук (ИСП РАН): [ispras.ru](https://www.ispras.ru/)
 
-Адрес этой страницы: [https://oreluniver.ispras.ru](http://oreluniver.ispras.ru)
+Адрес этой страницы: [oreluniver.ispras.ru](http://oreluniver.ispras.ru)
 
 Канал ИСП РАН в Telegram: [@ispras](https://t.me/ispras)
 
@@ -12,7 +12,7 @@
 
 <img src="images/ispras-overview-slide.jpg" style="width: 100%">
 
-Страница ИСП РАН для студентов: [https://education.at.ispras.ru/](https://education.at.ispras.ru/)
+Страница ИСП РАН для студентов: [education.at.ispras.ru](https://education.at.ispras.ru/)
 
 ## Направления подготовки
 
@@ -24,7 +24,7 @@
 - 09.03.03 "Прикладная информатика" (ПИ)
 - 09.03.04 "Программная инженерия" (ПГ)
 
-Занятия проводят сотрудники ИСП РАН — разработчики технологии ML IDS [https://www.ispras.ru/technologies/ml_ids/](https://www.ispras.ru/technologies/ml_ids/) — Дмитрий Александрович Рыболовлев [@fish_boned](https://t.me/fish_boned) и Анастасия Григорьевна Никольская.
+Занятия проводят сотрудники ИСП РАН — разработчики технологии [ML IDS](https://www.ispras.ru/technologies/ml_ids/) — Дмитрий Александрович Рыболовлев [@fish_boned](https://t.me/fish_boned) и Анастасия Григорьевна Никольская.
 
 ## Новости
 
@@ -74,9 +74,11 @@
 
 **05.06.2025** Студенты группы 21ПИ Антон Ветров, Александр Тимошенко, Роман Шугуров выступили с докладами на конференции [ИТНОП-2025](https://myconfs.ru/itnop2025). Александр Тимошенко получил диплом II степени в секции "Искусственный интеллект и принятие решений".
 
+- [Новость ОГУ о конференции ИТНОП-2025](https://oreluniver.ru/media/news/show/1/25641)
+
 **01.06.2025** Среди восьмисот заявок Дмитрий Рыболовлев с коллегами стали победителями [Технотекста года](https://habr.com/ru/companies/habr/articles/911650/) в номинации "AI & ML" со своей статьей ["Я больше не верю публичным датасетам"](https://habr.com/ru/companies/isp_ras/articles/829506/) о том, с какими проблемами они сталкиваются при обучении систем обнаружения компьютерных атак на публичных данных.
 
-**31.05.2025** https://oreluniver.ru/media/news/show/1/25591
+**31.05.2025** [Вручение стипендий Института системного программирования РАН студентам ОГУ имени И.С. Тургенева](https://oreluniver.ru/media/news/show/1/25591)
 
 <div class="photo-grid" style="--photo-grid-cols: 1">
   <img src="images/itnop-2025-student-certificates.jpg" alt="">
@@ -97,9 +99,9 @@
 
 **23.11.2022** Заключено Соглашение о сотрудничестве между ИСП РАН и ОГУ**.**
 
-**26.09.2020** https://oreluniver.ru/media/news/show/1/9626
+**26.09.2020** [В ОГУ им. И.С. Тургенева начала работу Международная конференция "Иванниковские чтения"](https://oreluniver.ru/media/news/show/1/9626)
 
-https://www.ivannikov-ws.org/2020/#AboutEvent
+[Страница конференции "Иванниковские чтения 2020"](https://www.ivannikov-ws.org/2020/#AboutEvent)
 
 <div class="photo-grid">
   <img src="images/ivannikov-readings-2020-ogu-participants.jpg" alt="">

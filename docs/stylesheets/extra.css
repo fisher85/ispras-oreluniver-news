@@ -81,6 +81,10 @@
   padding: 0.4rem 0.6rem;
 }
 
+.md-typeset table:not([class]) tr:has(td:first-child:empty) {
+  background-color: #eef4fb;
+}
+
 /* Footer */
 .md-footer {
   display: none;
